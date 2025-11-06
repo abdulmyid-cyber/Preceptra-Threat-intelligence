@@ -29,7 +29,7 @@ A production-ready web application for collecting, managing, and analyzing threa
 
 2. **Navigate to the project directory**
    ```bash
-   cd C:\Users\Abdul.DESKTOP-H3JA4AK\Documents\Threatintelligence
+   cd C:\Users\Abdulmyid@gmail.com\Documents\Threatintelligence
    ```
 
 3. **Install backend dependencies**
