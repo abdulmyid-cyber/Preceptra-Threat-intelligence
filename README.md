@@ -1,4 +1,4 @@
-# PRECEPTRA Threat Intelligence Platform
+# Abdul Threat Intelligence Platform
 
 A production-ready web application for collecting, managing, and analyzing threat intelligence (IOCs) from various sources.
 
@@ -186,6 +186,7 @@ This project is for educational and research purposes.
 <img width="1898" height="852" alt="image" src="https://github.com/user-attachments/assets/c25e270b-5a21-4356-87d7-9b3a445c4473" />
 
 <img width="1902" height="835" alt="image" src="https://github.com/user-attachments/assets/872fe40d-715c-4931-9214-a9adccff7c89" />
+
 
 
 
