@@ -179,4 +179,17 @@ Threatintelligence/
 ## License
 
 This project is for educational and research purposes.
+<img width="1912" height="827" alt="image" src="https://github.com/user-attachments/assets/7e492d9c-18d6-482c-8dd3-ea85924af62b" />
+<img width="1920" height="858" alt="image" src="https://github.com/user-attachments/assets/b0c87dae-ec00-4f25-9b64-d0879774ed12" />
+<img width="1898" height="838" alt="image" src="https://github.com/user-attachments/assets/53d441ea-c558-4925-83d9-de103b5f3166" />
+<img width="1910" height="843" alt="image" src="https://github.com/user-attachments/assets/bda49456-d232-4f2f-8834-f3ebf3c77032" />
+<img width="1898" height="852" alt="image" src="https://github.com/user-attachments/assets/c25e270b-5a21-4356-87d7-9b3a445c4473" />
+
+<img width="1902" height="835" alt="image" src="https://github.com/user-attachments/assets/872fe40d-715c-4931-9214-a9adccff7c89" />
+
+
+
+
+
+
 
